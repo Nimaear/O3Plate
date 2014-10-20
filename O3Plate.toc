@@ -1,0 +1,9 @@
+## Interface: 60000
+## DefaultState: Enabled
+## Title: |cFF007FFFO3|r Plate
+## Author: Oz
+## Version: 0.1
+## Notes: O3 Name plates
+## RequiredDeps: O3
+
+Plate.lua

@@ -391,6 +391,7 @@ local handler = O3:module({
 		else
 			plate.newPlate:SetSize(self.settings.width, self.settings.height+self.settings.castbarHeight+self.settings.gap)
 		end
+		plate.dragon:SetTexture(nil)
 
 
 		--healthbar
